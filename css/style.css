@@ -327,4 +327,10 @@ td {
     .container-lang {
         grid-template-columns: 1fr;
     }
+    .container-Skill{
+        width: 100%;
+    }
+    .name {
+        width: 53%;
+    }
 }
